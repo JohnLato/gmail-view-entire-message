@@ -21,7 +21,7 @@
 	var elemId = "a9f23ADSFa8f2392rjads293923jfaskdf0q4";
 	vemLink.id = elemId;
 	vemLink.href = url;
-	vemLink.target = "_new";
+	vemLink.target = "_blank";
 	vemLink.innerText = "View entire message";
 
 	// Make sure the link hasn't already been inserted:
